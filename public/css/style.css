@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+body{
+  font-family: 'roboto',sans-serif; //roboto if not available sans-serif will display
+}
+
+.font-poppins{
+  font-family: 'poppins',sans-serif;
+}
+h1, p{
+  color: #fff;
+}
+
+.font-size-09{
+  font-size:0.9em;
+}
+
+input:focus{
+  box-shadow:none !important;
+  outline: none !important;
+}
+body{
+  background-color: #000;
+}
