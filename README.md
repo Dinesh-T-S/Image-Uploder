@@ -20,7 +20,7 @@ $npm install express ejs body-parser lodash mongoose nodemon
 
 To start the console 
 
-$ nodemon app.js
+$ nodemon server.js
 
 Open in browser 
 
